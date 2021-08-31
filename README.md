@@ -6,7 +6,7 @@
   #### DESCRIPTION
 
   I always feel like somebody's watching me ... :eyes: <br>
-  Well, maybe these eyes I've created are just following my mouse movement.
+  Well, maybe these eyes I've created are just following my mouse movement. Have fun!
   <br>
   
   ***
